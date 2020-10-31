@@ -44,6 +44,7 @@
 *.mk
 /Debug/
 /linkscripts/
+/build/
 
 # Kernel Module Compile Results
 *.mod*
